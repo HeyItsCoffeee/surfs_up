@@ -10,7 +10,7 @@ The temperature data for the months of June and December has been analyzed and t
 
 ### June Temperature Analysis:
 
-
+<img src="Resources/June_Temp_Desc.png" width=150>
 
 The average temperature in June is around 75 degrees Fahrenheit, which is relatively high.
 The minimum temperature in June is around 64 degrees Fahrenheit, while the maximum temperature is around 85 degrees Fahrenheit.
@@ -19,6 +19,8 @@ The standard deviation of temperature in June is around 3.26, which indicates th
 
 
 ### December Temperature Analysis:
+
+<img src="Resources/Dec_Temp_Desc.png" width=130>
 
 The average temperature in December is around 71 degrees Fahrenheit, which is relatively lower than June.
 The minimum temperature in December is around 56 degrees Fahrenheit, while the maximum temperature is around 83 degrees Fahrenheit.
